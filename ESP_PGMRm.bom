@@ -1,0 +1,23 @@
+Partlist exported from /home/aj/EAGLE/projects/ESP_PGMR/ESP_PGMRm.sch at 5/25/19 10:13 PM
+
+Part Value                                 Device                                Package                        Description                            
+C1   10uF                                  C-USC0805                             C0805                          CAPACITOR, American symbol                  .25
+C2   .1uF                                  C-USC0805                             C0805                          CAPACITOR, American symbol                  .1
+C3   10uF                                  C-USC0805                             C0805                          CAPACITOR, American symbol                  .25
+C4   .1uF                                  C-USC0805                             C0805                          CAPACITOR, American symbol                  .1
+C5   .1uF                                  C-USC0805                             C0805                          CAPACITOR, American symbol                  .1
+CN2  M04X2ESP                              M04X2ESP                              2X04-ESP                                                                   .17
+CN3  USBMICRO_B_SMT                        USBMICRO_B_SMT                        USB_MICRO_B_MID                                                            .25
+D1   1N4148                                DIODE_SOD-123                         SOD-123                        Diode                                       .08
+IC1  LM1117-2-SOT223                       LM1117-2-SOT223                       SOT-223-3                      LDO Voltage Regulator                       .25
+IC2  CH340G                                CH340G                                SOIC16                                                                     .42
+L1                                         WE-CBA_0805_782851102_WB/HS           WE-CBA_0805(W=3)               WE-CBA SMD EMI Suppression Ferrite Bead     .10
+LED1 RED                                   LEDCHIPLED_1206                       CHIPLED_1206                   LED                                         .03
+LED2 GREEN                                 LEDCHIPLED_1206                       CHIPLED_1206                   LED                                         .03
+LED3 YELLOW                                LEDCHIPLED_1206                       CHIPLED_1206                   LED                                         .03
+QF2  8M10AHC49T                            8M10AHC49T                            HC49U                          Monolithic Crystal Filters                  .21
+R1   150Ω                                  R-US_M0805                            M0805                          RESISTOR, American symbol                   .02
+R2   10k                                   R-US_R0805                            R0805                          RESISTOR, American symbol                   .02
+S1   MOMENTARY-SWITCH-SPST-PTH-6.0X6.0-5MM MOMENTARY-SWITCH-SPST-PTH-6.0X6.0-5MM TACTILE_SWITCH_PTH_6.0X6.0-5MM Momentary Switch (Pushbutton) - SPST        .25
+S2   MOMENTARY-SWITCH-SPST-PTH-6.0X6.0-5MM MOMENTARY-SWITCH-SPST-PTH-6.0X6.0-5MM TACTILE_SWITCH_PTH_6.0X6.0-5MM Momentary Switch (Pushbutton) - SPST        .25
+                                                                                                                                                            3.27
